@@ -8,13 +8,10 @@
 </head>
 <body>
     <div class="container">
-    <div class="bg-light">
 <?php
  echo "This is Practice code i Wrote for git"
 ?>
 
-
-    </div>
     </div>
 </body>
 </html>
